@@ -5,14 +5,14 @@ A simple pH scale representation built with HTML and CSS. The scale ranges from 
 -Neutral (7): Green.
 -Alkaline (8–14): Blue to purple.
 
-##Features
+## Features
 -Accurate color-coded pH scale.
 -Fully responsive design.
 
-##How to Use
+## How to Use
 -Download the files.
 -Open index.html in your browser.
 
-##Files
+## Files
 -index.html
 -styles.css
